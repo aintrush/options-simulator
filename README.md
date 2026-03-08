@@ -12,11 +12,11 @@ I built this options pricing and analysis toolkit from scratch to show my unders
 ---
 
 ## 📋 **Table of Contents**
-1. [Interactive Black-Scholes Calculator](#interactive-black-scholes-calculator)
-2. [Advanced Visualization Suite](#advanced-visualization-suite)
-3. [Live Market Data Scanner](#live-market-data-scanner)
-4. [Mathematical Foundation](#mathematical-foundation)
-5. [Technical Implementation](#technical-implementation)
+1. [🧮 Interactive Black-Scholes Calculator](#-interactive-black-scholes-calculator)
+2. [📊 Advanced Visualization Suite](#-advanced-visualization-suite)
+3. [🔍 Live Market Data Scanner](#-live-market-data-scanner)
+4. [🧮 Mathematical Foundation](#-mathematical-foundation)
+5. [💻 Technical Implementation](#-technical-implementation)
 
 ---
 
